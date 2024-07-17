@@ -1,0 +1,40 @@
+1.Requirment of project.What is the problem it is going to solve.
+2.How and why didi you select this project ,tools, platform etc.
+3.Know the basic structure of project(Components we used).
+4.Files,folders,libs,configs.
+5.should explain the Basic workflow.
+
+6.Role
+ ---i was one of the team member who look up the software part this is major and important part.
+7.difficiults u face
+---while integrating the software and hardware parts.
+8.if there is a software part which language is it.
+9.use of project
+
+
+
+
+
+
+
+
+pwd-- print working directory
+cd --- changes the working directory 
+
+The argument .. stands for the directory above the current working directory.
+
+
+The relative path is a forward slash (/) separated list of all the directories leading to the goal directory. 
+
+The mkdir --command stands for “make directory”
+
+
+mkdir--It takes in a directory name as an argument and then creates a new directory in the current working directory
+
+touch-- command creates a new file inside the working directory.
+Helper Commands
+There are 4 types of helper commands.
+1]  tab
+2] down arrows
+3] up arropw
+4] clear
